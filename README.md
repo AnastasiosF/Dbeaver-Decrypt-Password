@@ -13,7 +13,7 @@ File location
  * Linux: locate the ```credentials-config.json```
  * Mac: locate the ```credentials-config.json```
 ```
-java -jar DecryptDbeaver credentials-config.json
+java -jar DecryptDΒeaver credentials-config.json
 ```
 ----
 The code is from: https://stackoverflow.com/a/57630312
